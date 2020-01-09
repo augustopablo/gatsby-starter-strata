@@ -98,13 +98,13 @@ class HomeIndex extends React.Component {
               technology can improve your bottom line that you might not have
               known was possible.
             </p>
-            <ul className="actions">
+            {/* <ul className="actions">
               <li>
                 <a href="#" className="button">
                   Learn More
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </section>
 
           <section id="two">
@@ -121,13 +121,13 @@ class HomeIndex extends React.Component {
               )}
             />
 
-            <ul className="actions">
+            {/* <ul className="actions">
               <li>
                 <a href="#" className="button">
                   Full Portfolio
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </section>
 
           <section id="three">
@@ -195,7 +195,7 @@ class HomeIndex extends React.Component {
                     <h3 className="icon fa-envelope-o">
                       <span className="label">Email</span>
                     </h3>
-                    <a href="#">hello@untitled.tld</a>
+                    {/* <a href="#">hello@untitled.tld</a> */}
                   </li>
                 </ul>
               </div>
