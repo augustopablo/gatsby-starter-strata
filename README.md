@@ -2,7 +2,7 @@
 
 ## Preview
 
-http://gatsby-strata.surge.sh/
+https://fullstackdev.best
 
 ## Installation
 
