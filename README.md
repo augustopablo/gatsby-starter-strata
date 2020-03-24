@@ -1,9 +1,5 @@
 # My personal Website
 
-## Preview
-
-https://fullstackdev.best
-
 ## Installation
 
 Fork this repo and run `npm install` in the terminal.
